@@ -1,7 +1,6 @@
 # Python For Civil Engineers
-Learn Python basics for civil engineering students and civil engineers
 
-***This repository consists of lecture notes from the following course:***
+***This repository aims to teach the basics of python programming language to civil engineering students and civil engineers. It consists of lecture notes from the following course.***
 
 Sakarya University | Department of Civil Engineering | Faculty of Engineering
 
