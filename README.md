@@ -1,6 +1,6 @@
-# Python For Civil Engineering
+# Python For Civil Engineers
 
-***This repository aims to teach the basics of python programming language to civil engineering students and civil engineers.***
+***This repository aims to teach the basics of Python programming language to civil engineering students and engineers.***
 
-It provides an array of valuable examples that effectively tackle fundamental problems encountered in civil engineering.
+It provides various valuable examples that effectively tackle fundamental problems encountered in civil engineering.
 
